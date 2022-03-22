@@ -1,4 +1,4 @@
-# uu-recommendation-assignment2
+# BBC: balancing Content Diversity and Autonomy
 
 
 this will cause a merge conflict
