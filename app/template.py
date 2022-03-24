@@ -5,6 +5,7 @@ import random
 
 from show import Show
 import authenticate as auth
+import user_interaction_collector as uic
 
 
 def sidebar(df_users):
@@ -25,13 +26,19 @@ def display_history(show: Show):
         st.button('🕶', key=random.random(), on_click=select_show, args=(show.index, False,))
 
 
-def display_show(cur_show: Show):
-    st.title(cur_show.title)
-    left, middle, right = st.columns([1, 3,  1])
-    with middle:
-        st.image(cur_show.img)
-    st.caption(cur_show.desc)
-    st.caption(f'Category: {cur_show.category}')
+def display_show(show: Show):
+    st.title(show.title)
+    left, right, super_right = st.columns([2,  2, 1])
+    with left:
+        st.image(show.img)
+    with right:
+        st.caption(show.desc)
+        st.caption(f'Category: {show.category}')
+    with super_right:
+        st.button('👍🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Dislike'))
+        st.button('👎🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Like'))
+        st.button('⛔', key=random.random(), on_click=uic.activity, args=(show.index, 'DoNotShow'))
+
 
 
 def recommendations(df, text='Enter a Text for the header of the recommendation'):
@@ -65,6 +72,7 @@ def select_show(id, history=True):
     if history:
         record_history(id)
     st.session_state[c.ID] = id
+    uic.activity(int(id), 'Select Show')
 
 
 def record_history(id):

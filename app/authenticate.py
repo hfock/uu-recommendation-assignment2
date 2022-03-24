@@ -4,6 +4,7 @@ import pandas as pd
 
 import constant as c
 
+
 def authenticate(df_users):
 
 	#0. Load users
@@ -44,4 +45,4 @@ def authenticate(df_users):
 	elif st.session_state[c.AUTH_STATUS] == None:
 		# write an warning message on the sidebar
 		with st.sidebar:			
-			st.info('Please enter your username and password in the sidebar')
+			st.info('Please enter username and password')

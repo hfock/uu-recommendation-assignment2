@@ -1,0 +1,98 @@
+[
+    {
+        "content_id": "tt0348034",
+        "activity": "Like",
+        "user_id": 1,
+        "datetime": "2022-03-22 14:12:11.298680"
+    },
+    {
+        "content_id": 2,
+        "activity": "Select Season",
+        "user_id": 1,
+        "datetime": "2022-03-22 14:12:12.867443"
+    },
+    {
+        "content_id": "tt0767438",
+        "activity": "Select Episode",
+        "user_id": 1,
+        "datetime": "2022-03-22 14:12:16.287137"
+    },
+    {
+        "content_id": 1974,
+        "activity": "Dislike",
+        "user_id": 0,
+        "datetime": "2022-03-24 16:24:10.792077"
+    },
+    {
+        "content_id": 1974,
+        "activity": "DoNotShow",
+        "user_id": 0,
+        "datetime": "2022-03-24 16:24:12.593679"
+    },
+    {
+        "content_id": 1974,
+        "activity": "Like",
+        "user_id": 0,
+        "datetime": "2022-03-24 16:24:14.584596"
+    },
+    {
+        "content_id": 1974,
+        "activity": "Dislike",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:24:47.363712"
+    },
+    {
+        "content_id": 1974,
+        "activity": "Like",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:24:48.819904"
+    },
+    {
+        "content_id": 1974,
+        "activity": "DoNotShow",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:24:50.654476"
+    },
+    {
+        "content_id": 379,
+        "activity": "DoNotShow",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:27:07.931029"
+    },
+    {
+        "content_id": 379,
+        "activity": "Dislike",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:27:08.752304"
+    },
+    {
+        "content_id": 1559,
+        "activity": "Select Show",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:27:18.508381"
+    },
+    {
+        "content_id": 990,
+        "activity": "Select Show",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:27:19.961368"
+    },
+    {
+        "content_id": 815,
+        "activity": "Select Show",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:27:21.631415"
+    },
+    {
+        "content_id": 807,
+        "activity": "Select Show",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:28:29.827945"
+    },
+    {
+        "content_id": 2164,
+        "activity": "Select Show",
+        "user_id": 1,
+        "datetime": "2022-03-24 16:28:31.353521"
+    }
+]
