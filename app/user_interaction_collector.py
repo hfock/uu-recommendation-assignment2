@@ -7,7 +7,7 @@ import constant as c
 
 # save the activities as a file
 def save_activities():
-    with open('activities.json', 'w') as outfile:
+    with open(f'{c.DATA_PATH}activities.json', 'w') as outfile:
         json.dump(st.session_state[c.ACTIVITIES], outfile, indent=4)
 
 
