@@ -16,5 +16,47 @@
         "activity": "Select Episode",
         "user_id": 1,
         "datetime": "2022-03-22 14:12:16.287137"
+    },
+    {
+        "content_id": 1214,
+        "activity": "watch_percentage",
+        "watch_percentage": 56,
+        "user_id": 0,
+        "datetime": "2022-03-29 14:04:12.233196"
+    },
+    {
+        "content_id": 770,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 2,
+        "datetime": "2022-03-29 14:28:28.101403"
+    },
+    {
+        "content_id": 528,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 2,
+        "datetime": "2022-03-29 14:28:31.647556"
+    },
+    {
+        "content_id": 909,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 2,
+        "datetime": "2022-03-29 14:28:42.376445"
+    },
+    {
+        "content_id": 471,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 2,
+        "datetime": "2022-03-29 14:28:49.908113"
+    },
+    {
+        "content_id": 759,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 2,
+        "datetime": "2022-03-29 14:28:54.073621"
     }
 ]

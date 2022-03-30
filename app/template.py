@@ -38,6 +38,9 @@ def display_show(show: Show):
         st.button('👍🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Dislike'))
         st.button('👎🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Like'))
         st.button('⛔', key=random.random(), on_click=uic.activity, args=(show.index, 'DoNotShow'))
+        watched = st.slider('Watched', 0, 100)
+        st.button('Store Watch Percentage' , key=random.random(),
+                  on_click=uic.activity, args=(show.index, c.WATCH_PERCENTAGE, watched))
 
 
 

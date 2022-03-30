@@ -1,5 +1,6 @@
 import streamlit as st
 import random
+from enum import Enum
 
 DATA_PATH = './../data/'
 
@@ -22,6 +23,12 @@ USER = 'user'
 # Activities
 ACTIVITIES = 'activities'
 
+LIKE = 'like'
+DISLIKE = 'dislike'
+SELECT = 'select'
+WATCH_PERCENTAGE = 'watch_percentage'
+
+
 def init_session_keys(users_activities):
     if ID not in st.session_state:
         st.session_state[ID] = random.randrange(0, 2200)
@@ -33,6 +40,3 @@ def init_session_keys(users_activities):
         st.session_state[USER] = 0
     if ACTIVITIES not in st.session_state:
         st.session_state[ACTIVITIES] = users_activities
-
-
-
