@@ -1,0 +1,858 @@
+{
+    "navigation": {
+        "items": [
+            {
+                "id": "channels",
+                "title": "Channels",
+                "active": false,
+                "subItems": [
+                    {
+                        "title": "BBC One",
+                        "href": "/bbcone",
+                        "liveHref": "/iplayer/live/bbcone",
+                        "active": false,
+                        "icon": "bbcone",
+                        "id": "bbc_one"
+                    },
+                    {
+                        "title": "BBC Two",
+                        "href": "/bbctwo",
+                        "liveHref": "/iplayer/live/bbctwo",
+                        "active": false,
+                        "icon": "bbctwo",
+                        "id": "bbc_two"
+                    },
+                    {
+                        "title": "BBC Three",
+                        "href": "/tv/bbcthree",
+                        "liveHref": "/iplayer/live/bbcthree",
+                        "active": false,
+                        "icon": "bbcthree",
+                        "id": "bbc_three"
+                    },
+                    {
+                        "title": "BBC Four",
+                        "href": "/bbcfour",
+                        "liveHref": "/iplayer/live/bbcfour",
+                        "active": false,
+                        "icon": "bbcfour",
+                        "id": "bbc_four"
+                    },
+                    {
+                        "title": "BBC Radio 1",
+                        "href": "/tv/radio1",
+                        "liveHref": "/iplayer/live/radio1",
+                        "active": false,
+                        "icon": "radio1",
+                        "id": "bbc_radio_one"
+                    },
+                    {
+                        "title": "CBBC",
+                        "href": "/tv/cbbc",
+                        "liveHref": "/iplayer/live/cbbc",
+                        "active": false,
+                        "icon": "cbbc",
+                        "id": "cbbc"
+                    },
+                    {
+                        "title": "CBeebies",
+                        "href": "/tv/cbeebies",
+                        "liveHref": "/iplayer/live/cbeebies",
+                        "active": false,
+                        "icon": "cbeebies",
+                        "id": "cbeebies"
+                    },
+                    {
+                        "title": "BBC Scotland",
+                        "href": "/tv/bbcscotland",
+                        "liveHref": "/iplayer/live/bbcscotland",
+                        "active": false,
+                        "icon": "bbcscotland",
+                        "id": "bbc_scotland"
+                    },
+                    {
+                        "title": "BBC News",
+                        "href": "/tv/bbcnews",
+                        "liveHref": "/iplayer/live/bbcnews",
+                        "active": false,
+                        "icon": "bbcnews",
+                        "id": "bbc_news24"
+                    },
+                    {
+                        "title": "BBC Parliament",
+                        "href": "/tv/bbcparliament",
+                        "liveHref": "/iplayer/live/bbcparliament",
+                        "active": false,
+                        "icon": "bbcparliament",
+                        "id": "bbc_parliament"
+                    },
+                    {
+                        "title": "BBC Alba",
+                        "href": "/tv/bbcalba",
+                        "liveHref": "/iplayer/live/bbcalba",
+                        "active": false,
+                        "icon": "bbcalba",
+                        "id": "bbc_alba"
+                    },
+                    {
+                        "title": "S4C",
+                        "href": "/tv/s4c",
+                        "liveHref": "/iplayer/live/s4c",
+                        "active": false,
+                        "icon": "s4c",
+                        "id": "s4cpbs"
+                    }
+                ]
+            },
+            {
+                "id": "categories",
+                "title": "Categories",
+                "active": false,
+                "subItems": [
+                    {
+                        "title": "Drama & Soaps",
+                        "href": "/iplayer/categories/drama-and-soaps/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "drama-and-soaps"
+                    },
+                    {
+                        "title": "Films",
+                        "href": "/iplayer/categories/films/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "films"
+                    },
+                    {
+                        "title": "Comedy",
+                        "href": "/iplayer/categories/comedy/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "comedy"
+                    },
+                    {
+                        "title": "Documentaries",
+                        "href": "/iplayer/categories/documentaries/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "documentaries"
+                    },
+                    {
+                        "title": "Sport",
+                        "href": "/iplayer/categories/sport/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "sport"
+                    },
+                    {
+                        "title": "News",
+                        "href": "/iplayer/categories/news/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "news"
+                    },
+                    {
+                        "title": "Entertainment",
+                        "href": "/iplayer/categories/entertainment/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "entertainment"
+                    },
+                    {
+                        "title": "Music",
+                        "href": "/iplayer/categories/music/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "music"
+                    },
+                    {
+                        "title": "Food",
+                        "href": "/iplayer/categories/food/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "food"
+                    },
+                    {
+                        "title": "Lifestyle",
+                        "href": "/iplayer/categories/lifestyle/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "lifestyle"
+                    },
+                    {
+                        "title": "History",
+                        "href": "/iplayer/categories/history/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "history"
+                    },
+                    {
+                        "title": "Science & Nature",
+                        "href": "/iplayer/categories/science-and-nature/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "science-and-nature"
+                    },
+                    {
+                        "title": "Arts",
+                        "href": "/iplayer/categories/arts/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "arts"
+                    },
+                    {
+                        "title": "From the Archive",
+                        "href": "/iplayer/categories/archive/featured",
+                        "active": false,
+                        "kind": "genre",
+                        "id": "archive"
+                    },
+                    {
+                        "title": "Audio Described",
+                        "href": "/iplayer/categories/audio-described/featured",
+                        "active": false,
+                        "kind": "accessibility",
+                        "id": "audio-described"
+                    },
+                    {
+                        "title": "Signed",
+                        "href": "/iplayer/categories/signed/featured",
+                        "active": false,
+                        "kind": "accessibility",
+                        "id": "signed"
+                    },
+                    {
+                        "title": "Northern Ireland",
+                        "href": "/iplayer/categories/northern-ireland/featured",
+                        "active": false,
+                        "kind": "national",
+                        "id": "northern-ireland"
+                    },
+                    {
+                        "title": "Scotland",
+                        "href": "/iplayer/categories/scotland/featured",
+                        "active": false,
+                        "kind": "national",
+                        "id": "scotland"
+                    },
+                    {
+                        "title": "Wales",
+                        "href": "/iplayer/categories/wales/featured",
+                        "active": false,
+                        "kind": "national",
+                        "id": "wales"
+                    },
+                    {
+                        "title": "CBeebies",
+                        "href": "/iplayer/categories/cbeebies/featured",
+                        "active": false,
+                        "kind": "childrens",
+                        "id": "cbeebies"
+                    },
+                    {
+                        "title": "CBBC",
+                        "href": "/iplayer/categories/cbbc/featured",
+                        "active": false,
+                        "kind": "childrens",
+                        "id": "cbbc"
+                    }
+                ]
+            },
+            {
+                "title": "A-Z",
+                "ariaLabel": "A to Z",
+                "href": "/iplayer/a-z/a",
+                "active": false,
+                "id": "a-z"
+            },
+            {
+                "title": "TV Guide",
+                "href": "/iplayer/guide",
+                "active": false,
+                "id": "tv-guide"
+            },
+            {
+                "title": "My Programmes",
+                "href": "/iplayer/watching",
+                "active": false,
+                "id": "my-programmes"
+            }
+        ],
+        "renderOpen": false,
+        "variant": "default",
+        "accessibilityHelpHref": "/iplayer/features/accessibility",
+        "useLiveHrefs": false
+    },
+    "footer": {
+        "locationLabel": "Change location",
+        "languageLabel": "Change language",
+        "locations": [
+            {
+                "label": "Nations",
+                "locations": [
+                    {
+                        "label": "England",
+                        "value": "en"
+                    },
+                    {
+                        "label": "Northern Ireland",
+                        "value": "ni"
+                    },
+                    {
+                        "label": "Scotland",
+                        "value": "sc"
+                    },
+                    {
+                        "label": "Wales",
+                        "value": "wa"
+                    }
+                ]
+            },
+            {
+                "label": "Regions",
+                "locations": [
+                    {
+                        "label": "Cambridge",
+                        "value": "ca"
+                    },
+                    {
+                        "label": "Channel Islands",
+                        "value": "ci"
+                    },
+                    {
+                        "label": "East",
+                        "value": "ea"
+                    },
+                    {
+                        "label": "East Midlands",
+                        "value": "em"
+                    },
+                    {
+                        "label": "East Yorks & Lincs",
+                        "value": "ey"
+                    },
+                    {
+                        "label": "London",
+                        "value": "lo"
+                    },
+                    {
+                        "label": "North East & Cumbria",
+                        "value": "ne"
+                    },
+                    {
+                        "label": "North West",
+                        "value": "nw"
+                    },
+                    {
+                        "label": "Oxfordshire",
+                        "value": "ox"
+                    },
+                    {
+                        "label": "South",
+                        "value": "so"
+                    },
+                    {
+                        "label": "South East",
+                        "value": "se"
+                    },
+                    {
+                        "label": "South West",
+                        "value": "sw"
+                    },
+                    {
+                        "label": "West",
+                        "value": "we"
+                    },
+                    {
+                        "label": "West Midlands",
+                        "value": "wm"
+                    },
+                    {
+                        "label": "Yorkshire",
+                        "value": "yo"
+                    }
+                ]
+            }
+        ],
+        "languages": [
+            {
+                "label": "English",
+                "value": "en"
+            },
+            {
+                "label": "Cymraeg",
+                "value": "cy"
+            },
+            {
+                "label": "Gaeilge",
+                "value": "ga"
+            },
+            {
+                "label": "G\u00e0idhlig",
+                "value": "gd"
+            }
+        ],
+        "parentalControlsLabel": "Parental Controls",
+        "helpFaqLabel": "Help & FAQ",
+        "parentalControlsHref": "/iplayer/guidance",
+        "helpFaqHref": "https://www.bbc.co.uk/iplayer/help",
+        "defaultLocation": "lo",
+        "defaultLanguage": "en",
+        "regionalPage": false
+    },
+    "safeguarding": {
+        "clientAgeBracket": null,
+        "serverAgeBracket": null,
+        "dismissedModal": false
+    },
+    "language": "en",
+    "experiments": {},
+    "translations": {
+        "page_title_version_ad": "Audio Described",
+        "page_title_version_sign": "Signed",
+        "related_episodes_this_episode_label": "This episode",
+        "related_episodes_title": "More episodes",
+        "related_episodes_view_all": "View all",
+        "msi_modal_title": "You need to sign in. It's quick & easy.",
+        "msi_modal_text": "And we'll keep you signed in.",
+        "msi_modal_why_sign_in": "Why sign in to the BBC?",
+        "childrens_modal_why_sign_in": "Why sign in to the BBC?",
+        "duration": "Duration",
+        "cancel": "Cancel",
+        "cancel_autoplay": "Cancel autoplay of %s",
+        "programme_ended_aria_label": "The current programme has ended. %s will autoplay in %s seconds. Activate the cancel button to stop it playing",
+        "showhide_button_show": "Show more",
+        "showhide_button_hide": "Hide",
+        "showhide_button_aria_show": "Show more programmes",
+        "showhide_button_aria_hide": "Return to the player",
+        "scaled_video_button_aria_hide": "Return to the player",
+        "skip_trailer": "Skip trailer",
+        "restart_programme": "Restart programme",
+        "accessibility_banner_sign": "This is a Signed version of this programme.",
+        "accessibility_banner_sign_non_available": "The non-Signed version isn't available.",
+        "accessibility_banner_sign_turn_off": "Turn off Sign Language",
+        "accessibility_banner_ad": "This is an Audio Described version of this programme.",
+        "accessibility_banner_ad_non_available": "The non-Audio Described version isn't available.",
+        "accessibility_banner_ad_turn_off": "Turn off Audio Description",
+        "accessibility_banner_find_out_why": "Find out why",
+        "expand_synopsis": "More",
+        "collapse_synopsis": "Less",
+        "synopsis_initial_aria_label": "More synopsis",
+        "synopsis_expanded_aria_label": "Less synopsis",
+        "first_shown": "First shown",
+        "version_button_ad": "Audio Described",
+        "version_button_ad_aria": "Watch Audio Described version",
+        "version_button_ad_turn_off_aria": "Watch non-Audio Described version",
+        "version_button_sign": "Sign Language",
+        "version_button_sign_aria": "Watch Sign Language version",
+        "version_button_sign_turn_off_aria": "Watch non-Sign Language version",
+        "version_button_sign_not_available_why_aria_label": "Why is there no Sign Language version available?",
+        "version_button_ad_not_available_why_aria_label": "Why is there no Audio Described version available?",
+        "learn_more_about_availability": "Learn more about availability",
+        "download": "Download",
+        "add": "Add",
+        "added": "Added",
+        "remove": "Remove",
+        "added_banner_message": ":episodeTitle has been added to",
+        "my_programmes": "My Programmes",
+        "download_not_available_why_aria_label": "Why can't I download?",
+        "download_modal_title": "Programme Downloads",
+        "download_modal_have_you_installed": "Have you installed BBC iPlayer Downloads?",
+        "download_modal_help_faq": "Help & FAQ",
+        "download_button_hd": "Yes, download in HD",
+        "download_button_sd": "Yes, download in SD",
+        "download_button_install_now": "No, install now",
+        "rrc_why_aria_label": "More information about revisions, revocations and corrections",
+        "programme_link_label": "Programme links",
+        "programme_link_programme_website": "Programme website",
+        "programme_link_credits": "Credits",
+        "programme_link_more_from_bbc_three": "More from BBC Three",
+        "foreign_region_banner": "BBC iPlayer only works in the UK. Sorry, it\u2019s due to rights issues.",
+        "foreign_region_banner_advice": "In the UK? Here's some advice.",
+        "tvl_modal_subtitle": "You need one to watch any BBC programme on iPlayer - live, catch-up or on-demand. It's the law.",
+        "tvl_modal_title": "Got a TV Licence?",
+        "tvl_modal_i_have_a_tv_license": "I have a TV Licence. Watch now.",
+        "tvl_modal_i_dont_have_a_tv_license": "I don't have a TV Licence.",
+        "tvl_modal_find_out_more": "Find out more",
+        "error_modal_title": "Something went wrong!",
+        "error_modal_message": "Please check your connection and try reloading the page",
+        "error_modal_retry": "Retry",
+        "still_watching_modal_title": "Are you still watching?",
+        "still_watching_modal_continue_watching": "Continue watching",
+        "no_js_banner": "JavaScript seems to be disabled. Please enable JavaScript to take full advantage of iPlayer.",
+        "not_played_modal_title": "Hello!",
+        "not_played_modal_text": "Will you help us improve iPlayer by telling us why you're not playing this programme yet?",
+        "not_played_modal_option_dislike": "I don't think I'll like it",
+        "not_played_modal_option_wrong": "It's not the episode I was looking for",
+        "not_played_modal_option_problem": "I can't, something's broken",
+        "not_played_modal_option_browsing": "I'm just browsing",
+        "not_played_modal_option_other": "Other",
+        "continuous_play_modal_title": "You need to change your BBC cookie settings",
+        "continuous_play_modal_text": "If you are changing your Autoplay setting and want iPlayer to remember your preference, you need to turn on Functional cookies",
+        "continuous_play_modal_button_text": "Change your BBC cookie settings",
+        "error_message": "Content not available at this time",
+        "error_action_message": "Refresh page to retry",
+        "pagination_previous": "Previous",
+        "pagination_next": "Next",
+        "pagination_next_aria": "Next Page",
+        "pagination_previous_aria": "Previous Page",
+        "pagination_go_to_page_aria": "Page %s of %s",
+        "pagination_aria": "Pagination controls",
+        "related_episodes_title_no_series": "More Episodes",
+        "related_episodes_title_series": "%s Episodes",
+        "related_episodes_title_series_nav": "Series Navigation",
+        "remaining": "%s mins left",
+        "remainingSingular": "%s min left",
+        "resume": "Resume",
+        "next": "My Next Episode",
+        "watched": "Watched",
+        "tip_continue_watching": "Continue watching",
+        "tip_next_episode_in": "Next episode in",
+        "tip_next_episode": "Next episode",
+        "tip_recommended_episode_in": "Watch in",
+        "tip_recommended_episode": "Watch"
+    },
+    "episode": {
+        "status": "success",
+        "resumeOffset": null,
+        "added": null,
+        "addSuccess": null,
+        "currentVersion": "standard",
+        "id": "m00110rn",
+        "live": false,
+        "title": "The 80s - Music\u2019s Greatest Decade?",
+        "subtitle": "Series 1: 1. With Dylan Jones",
+        "synopses": {
+            "large": "Eighties music is often dismissed as a joke - all drum machines and big hair. But - as acclaimed author Dylan Jones argues in this film \u2013 the 1980s should be looked on as the most creative, radical and innovative decade in pop.\n \nThis was the decade when the world-conquering genres of rap, hip-hop and modern dance music were launched, while guitar-driven indie flourished in a constellation of scenes spread out across the UK that sowed the seeds of Britpop. And a technological revolution was changing how music was made, filling the charts with a starburst of innovative records.\n \nMeanwhile, the launch of MTV turned pop into a visual medium, allowing artists as varied as U2 and Eurythmics to take charge of how they presented themselves.\n \nFeaturing interviews with Nile Rodgers, Bananarama, Primal Scream\u2019s Bobby Gillespie, Mark Ronson, Trevor Horn and Soul II Soul\u2019s Jazzie B.",
+            "small": "Music author Dylan Jones argues that the 1980s were the most innovative decade in pop.",
+            "medium": "Music writer Dylan Jones puts the case that the 1980s were the most radical, innovative and creative decade in the history of pop.",
+            "editorial": "Beyond the power ballads. Dylan Jones champions a creative and innovative decade in pop"
+        },
+        "images": {
+            "type": "image",
+            "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09z7pc6.jpg",
+            "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09z8fb0.jpg",
+            "promotional_with_logo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09z8fjg.jpg"
+        },
+        "masterBrand": {
+            "id": "bbc_two",
+            "titles": {
+                "large": "BBC Two",
+                "small": "BBC Two",
+                "medium": "BBC Two"
+            },
+            "ident_id": "p06lgy8y",
+            "attribution": "bbc_two"
+        },
+        "requiresSignIn": true,
+        "requiresTvLicence": true,
+        "tleoId": "m00110rq",
+        "tleoType": "brand",
+        "guidance": false,
+        "labels": {
+            "category": "Music"
+        },
+        "hasCredits": true
+    },
+    "relatedEpisodes": {
+        "episodes": [
+            {
+                "episode": {
+                    "id": "m0011gkh",
+                    "live": false,
+                    "title": {
+                        "default": "The 80s - Music\u2019s Greatest Decade?"
+                    },
+                    "subtitle": {
+                        "default": "Series 1: 4. Hip-Hop to House",
+                        "slice": "4. Hip-Hop to House"
+                    },
+                    "labels": {
+                        "editorial": null,
+                        "time": null,
+                        "category": "Documentary"
+                    },
+                    "image": {
+                        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b29njp.jpg"
+                    },
+                    "synopsis": {
+                        "small": "Dylan Jones compiles some of the key hip-hop and house performances of the 80s."
+                    },
+                    "versions": [
+                        {
+                            "availability": {
+                                "remaining": "Available for over a year",
+                                "end": "2031-10-23T22:10:00Z"
+                            },
+                            "duration": {
+                                "text": "58 mins"
+                            },
+                            "kind": "original"
+                        }
+                    ]
+                }
+            },
+            {
+                "episode": {
+                    "id": "m0011gkf",
+                    "live": false,
+                    "title": {
+                        "default": "The 80s - Music\u2019s Greatest Decade?"
+                    },
+                    "subtitle": {
+                        "default": "Series 1: 3. Alternative Voices",
+                        "slice": "3. Alternative Voices"
+                    },
+                    "labels": {
+                        "editorial": null,
+                        "time": null,
+                        "category": "Documentary"
+                    },
+                    "image": {
+                        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b29m60.jpg"
+                    },
+                    "synopsis": {
+                        "small": "Dylan Jones selects some of the finest performances from alternative 80s music."
+                    },
+                    "versions": [
+                        {
+                            "availability": {
+                                "remaining": "Available for over a year",
+                                "end": "2031-10-23T21:10:00Z"
+                            },
+                            "duration": {
+                                "text": "59 mins"
+                            },
+                            "kind": "original"
+                        }
+                    ]
+                }
+            },
+            {
+                "episode": {
+                    "id": "m00117qg",
+                    "live": false,
+                    "title": {
+                        "default": "The 80s - Music\u2019s Greatest Decade?"
+                    },
+                    "subtitle": {
+                        "default": "Series 1: 2. True Originals",
+                        "slice": "2. True Originals"
+                    },
+                    "labels": {
+                        "editorial": null,
+                        "time": null,
+                        "category": "Documentary"
+                    },
+                    "image": {
+                        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0b14p4x.jpg"
+                    },
+                    "synopsis": {
+                        "small": "Dylan Jones selects some of the most iconic performers from the 1980s."
+                    },
+                    "versions": [
+                        {
+                            "availability": {
+                                "remaining": "Available for over a year",
+                                "end": "2031-10-23T20:55:00Z"
+                            },
+                            "duration": {
+                                "text": "58 mins"
+                            },
+                            "kind": "original"
+                        }
+                    ]
+                }
+            },
+            {
+                "episode": {
+                    "id": "m00110rn",
+                    "live": false,
+                    "title": {
+                        "default": "The 80s - Music\u2019s Greatest Decade?"
+                    },
+                    "subtitle": {
+                        "default": "Series 1: 1. With Dylan Jones",
+                        "slice": "1. With Dylan Jones"
+                    },
+                    "labels": {
+                        "editorial": null,
+                        "time": null,
+                        "category": "Music"
+                    },
+                    "image": {
+                        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p09z7pc6.jpg"
+                    },
+                    "synopsis": {
+                        "small": "Music author Dylan Jones argues that the 1980s were the most innovative decade in pop."
+                    },
+                    "versions": [
+                        {
+                            "availability": {
+                                "remaining": "Available for over a year",
+                                "end": "2031-10-23T20:55:00Z"
+                            },
+                            "duration": {
+                                "text": "59 mins"
+                            },
+                            "kind": "original"
+                        }
+                    ]
+                }
+            }
+        ],
+        "count": 4,
+        "slices": null,
+        "status": "success",
+        "page": 1,
+        "perPage": 36,
+        "currentSliceId": null,
+        "preferences": {
+            "episodeImage": [
+                "live",
+                "default"
+            ],
+            "episodeSubtitle": [
+                "live",
+                "default"
+            ],
+            "episodeSynopsis": [
+                "live",
+                "small"
+            ]
+        }
+    },
+    "versions": [
+        {
+            "id": "m00110rm",
+            "kind": "original",
+            "download": true,
+            "hd": true,
+            "guidance": false,
+            "rrc": false,
+            "events": [
+                {
+                    "name": "started",
+                    "offset": 30,
+                    "system": "uas"
+                },
+                {
+                    "name": "iplxp-ep-started",
+                    "offset": 30,
+                    "system": "optimizely"
+                },
+                {
+                    "name": "iplxp-ep-started",
+                    "offset": 30,
+                    "system": "dax"
+                },
+                {
+                    "name": "iplxp-ep-watched",
+                    "offset": 3181,
+                    "system": "optimizely"
+                },
+                {
+                    "name": "iplxp-ep-watched",
+                    "offset": 3181,
+                    "system": "dax"
+                },
+                {
+                    "name": "ended",
+                    "offset": 3415,
+                    "system": "uas"
+                }
+            ],
+            "firstBroadcast": "8:55pm 23 Oct 2021",
+            "duration": {
+                "text": "59 mins",
+                "seconds": 3534
+            },
+            "availability": {
+                "remaining": {
+                    "text": "Available for over a year"
+                }
+            },
+            "creditsStart": 3511,
+            "startTime": null,
+            "endTime": 1950555300
+        }
+    ],
+    "page": {
+        "error": null,
+        "sliceId": null
+    },
+    "player": {
+        "status": "loading",
+        "playingState": null,
+        "volume": 0.6,
+        "subtitles": false,
+        "continuousPlay": true,
+        "shouldPlay": false,
+        "ableToPlay": false,
+        "shouldAutoplay": false,
+        "shouldAutoplayWithChecks": false,
+        "playerContentType": null,
+        "errorEventFired": false,
+        "metadataLoadedEventFired": false,
+        "currentlyPlayingKind": null
+    },
+    "config": {
+        "staticAssetsPath": "https://iplayer-web.files.bbci.co.uk/iplayer-web-app-playback-v2/1.0.0-1571",
+        "host": "www.bbc.co.uk",
+        "iblBaseUrl": "https://ibl.api.bbc.co.uk/ibl/v1",
+        "graphBaseUrl": "https://graph.ibl.api.bbc.co.uk",
+        "tipBaseUrlLegacy": "https://iplayer-web.files.bbci.co.uk/iplayer-web-tip-playback/13.11.3",
+        "tipBaseUrl": "https://iplayer-web.files.bbci.co.uk/iplayer-web-tip-playback/14.22.0",
+        "boomrBaseUrl": "https://boomr.iplayer.api.bbc.co.uk",
+        "statsDestination": "iplayer",
+        "idctaBaseUrl": "https://idcta-origin.api.bbc.co.uk/idcta",
+        "notificationsBaseUrl": "https://preferences.notifications.api.bbc.co.uk",
+        "enablePersonalisation": "true"
+    },
+    "stats": {
+        "countername": "iplayer.tv.episode.the_80s_music_s_greatest_decade.series_1_1_with_dylan_jones.m00110rn.page",
+        "firedEvents": [],
+        "playedTypeStatFired": false
+    },
+    "id": {
+        "status": "green",
+        "signedIn": false,
+        "ageBracket": "unknown",
+        "enablePersonalisation": false,
+        "ctaMarkup": "%3Cp%20class%3D%22id-cta-wrapper%20id-cta--mixed%22%20id%3D%22id4-cta-c9ac8b86-f616-47c7-93cb-96cfe6279a96%22%3E%3Ca%20href%3D%22https%3A%2F%2Fsession.bbc.co.uk%2Fsession%3Fptrt%3Dhttps%253A%252F%252Fwww.bbc.co.uk%252Fiplayer%252Fepisode%252Fm00110rn%252Fthe-80s-musics-greatest-decade-series-1-1-with-dylan-jones%26context%3Diplayer%26userOrigin%3Diplayer%22%20class%3D%22id-cta-button%22%20data-bbc-container%3D%22id-cta%22%20data-bbc-event-type%3D%22click%22%20data-bbc-ignore-views%3D%221%22%20data-bbc-metadata%3D'%7B%22id-cta-type%22%3A%20%22embedded%22%7D'%20data-bbc-source%3D%22responsive_web%22%20data-bbc-title%3D%22id-cta-sign-in%22%3E%3Csvg%20class%3D%22id-cta-icon%22%20viewBox%3D%220%200%2032%2032%22%20width%3D%221em%22%20height%3D%221em%22%3E%3Cpath%20d%3D%22M16%2017.5a7.878%207.878%200%2001-8-7.75A7.878%207.878%200%200116%202a7.878%207.878%200%20018%207.75%207.878%207.878%200%2001-8%207.75zM2%2030c0-5.883%207.519-10%2014.014-10C22.48%2020%2030%2024.12%2030%2029.994c0%20.005-28%20.007-28%20.005z%22%20%2F%3E%3C%2Fsvg%3ESign%20in%3C%2Fa%3E%20or%20%3Ca%20href%3D%22https%3A%2F%2Fsession.bbc.co.uk%2Fsession%3Faction%3Dregister%26ptrt%3Dhttps%253A%252F%252Fwww.bbc.co.uk%252Fiplayer%252Fepisode%252Fm00110rn%252Fthe-80s-musics-greatest-decade-series-1-1-with-dylan-jones%26context%3Diplayer%26userOrigin%3Diplayer%22%20class%3D%22id-cta-link%22%20data-bbc-container%3D%22id-cta%22%20data-bbc-event-type%3D%22click%22%20data-bbc-ignore-views%3D%221%22%20data-bbc-metadata%3D'%7B%22id-cta-type%22%3A%20%22embedded%22%7D'%20data-bbc-source%3D%22responsive_web%22%20data-bbc-title%3D%22id-cta-registration%22%3ERegister%3C%2Fa%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3Eif%20(require.s.contexts._.config.paths%5B'idcta'%5D)%20%7Brequire(%5B'idcta%2Fidcta-1'%5D%2C%20function(idcta)%20%7Bif%20(idcta%20%26%26%20typeof%20idcta.addUserOrigin%20%3D%3D%3D%20'function')%20%7Bidcta.addUserOrigin('id4-cta-c9ac8b86-f616-47c7-93cb-96cfe6279a96')%3B%7D%7D)%3B%7D%3C%2Fscript%3E%3C%2Fp%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3Erequire(%5B'idcta%2Fidcta-1'%5D%2C%20function(idcta)%20%7Bnew%20idcta.Cta(%7Bid%3A%20'id4-cta-c9ac8b86-f616-47c7-93cb-96cfe6279a96'%2C%20states%3A%20%7B%7D%2C%20policyname%3A%20''%7D)%3B%7D)%3B%3C%2Fscript%3E",
+        "cdnFailover": false,
+        "hasLinkedU13Account": null
+    },
+    "user": {
+        "hasPolyfills": null,
+        "supportsDownloads": null,
+        "isForeignRegion": null,
+        "hasTvl": false,
+        "consumptionMethod": null
+    },
+    "journey": {
+        "status": "success"
+    },
+    "modal": {
+        "msi": false,
+        "download": false,
+        "tvl": false,
+        "continuousPlay": false
+    },
+    "preroll": null,
+    "variants": {},
+    "dials": {
+        "enableContinuousPlay": "true",
+        "enableProgressBars": "true",
+        "enableBoomr": "true",
+        "requiresSignIn": "true"
+    },
+    "upNext": null,
+    "detectView": {
+        "head": "%3Cscript%20type='text/javascript'%3Ewindow.__detectview=%7BclickManagementEnabled:false%7D;%3C/script%3E",
+        "bodyLast": "%3Cscript%20src='https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-448.45dcd56/detectview/detectview.bundle.js'%20async%3E%3C/script%3E"
+    },
+    "download": {
+        "shouldDownload": false
+    }
+}
