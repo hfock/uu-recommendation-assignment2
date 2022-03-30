@@ -1,14 +1,5 @@
 import psycopg2
-
-
-def establish_connection():
-    conn = psycopg2.connect(
-        host="localhost",
-        database="bbc",
-        user="postgres",
-        password="postgres")
-
-    return conn
+from config import config
 
 
 def create_tables():
@@ -32,8 +23,6 @@ def create_tables():
                 username VARCHAR ( 50 ) UNIQUE NOT NULL,
                 password VARCHAR ( 50 ) NOT NULL,
                 email VARCHAR ( 255 ) UNIQUE NOT NULL,
-                created_on TIMESTAMP NOT NULL,
-                last_login TIMESTAMP,
                 persona_id INT,
                 FOREIGN KEY (persona_id) REFERENCES personas(persona_id)
             );  
@@ -41,8 +30,12 @@ def create_tables():
 
     conn = None
     try:
+        # read connection parameters
+        params = config()
+
         # connect to the PostgreSQL server
-        conn = establish_connection()
+        conn = psycopg2.connect(**params)
+
         cur = conn.cursor()
         # create table one by one
         for command in commands:
@@ -60,4 +53,4 @@ def create_tables():
 
 
 if __name__ == '__main__':
-    conn = create_tables()
+    create_tables()
