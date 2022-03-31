@@ -19,7 +19,7 @@ def display_history(show: Show):
     left, right = st.columns([2, 2])
 
     with left:
-        st.image(show.img)
+        st.image(show.preview_img)
     with right:
         st.caption(show.desc)
         st.caption(f'Category: {show.category}')
@@ -30,7 +30,7 @@ def display_show(show: Show):
     st.title(show.title)
     left, right, super_right = st.columns([2,  2, 1])
     with left:
-        st.image(show.img)
+        st.image(show.preview_img)
     with right:
         st.caption(show.desc)
         st.caption(f'Category: {show.category}')
@@ -57,6 +57,7 @@ def recommendations(df, text='Enter a Text for the header of the recommendation'
 
         # convert df rows to dict lists
         items = df.to_dict(orient='records')
+        print(items)
         # apply tile_item to each column-item tuple (created with python 'zip')
         any(tile_item(x[0], x[1]) for x in zip(columns, items))
 
@@ -64,9 +65,10 @@ def recommendations(df, text='Enter a Text for the header of the recommendation'
 def tile_item(column, item):
     with column:
         st.button('📺', key=random.random(), on_click=select_show, args=(item['index'],))
-        st.image(item['img'], use_column_width='always')
+        st.image(item[c.DF_IMAGE_PREVIEW], use_column_width='always')
+
         st.markdown(f'''
-        *{item["category"]}*
+        *{item[c.DF_CATEGORY]}*
         ##### {item["title"]}
         ''')
 

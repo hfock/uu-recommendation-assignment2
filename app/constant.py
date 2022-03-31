@@ -28,6 +28,13 @@ DISLIKE = 'dislike'
 SELECT = 'select'
 WATCH_PERCENTAGE = 'watch_percentage'
 
+# DF Attributes
+
+DF_DESCRIPTION= 'description'
+DF_IMAGE_PREVIEW = 'image_l'
+DF_IMAGE_LARGE = 'image_xl'
+DF_CATEGORY = 'category'
+
 
 def init_session_keys(users_activities):
     if ID not in st.session_state:

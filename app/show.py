@@ -1,24 +1,33 @@
-class Show:
+import constant as c
 
+
+class Show:
     index = None
     title = None
     desc = None
 
-    img = None
+    preview_img = None
+    full_scale_img = None
 
     category = None
     adv_category = None
 
     channel = None
 
+    # series = None
+    # episode = None
+
     def __init__(self, df):
         self.index = df['index']
         self.title = df['title']
-        self.desc = df['description']
-        self.category = df['category']
+        self.desc = df[c.DF_DESCRIPTION]
+        self.category = df[c.DF_CATEGORY]
         self.channel = df['channel']
-        self.adv_category = df['adv_category']
-        self.img = df['img']
+        self.adv_category = df['k_means']
+        self.preview_img = df[c.DF_IMAGE_PREVIEW]
+        self.full_scale_img = df[c.DF_IMAGE_LARGE]
+        # self.series = df['series']
+        # self.episode = df['episode']
 
 
 class CurShowJson:
@@ -41,4 +50,3 @@ class CurShowJson:
         self.channel = json['Channel']
         self.release_year = json['Release Year']
         self.duration = json['Duration in Minutes']
-

@@ -58,5 +58,348 @@
         "watch_percentage": null,
         "user_id": 2,
         "datetime": "2022-03-29 14:28:54.073621"
+    },
+    {
+        "content_id": 2188,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:48:33.483150"
+    },
+    {
+        "content_id": 2188,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:48:33.485760"
+    },
+    {
+        "content_id": 2188,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:48:33.486141"
+    },
+    {
+        "content_id": 2188,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:48:33.486487"
+    },
+    {
+        "content_id": 2188,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:50:31.186487"
+    },
+    {
+        "content_id": 2188,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:50:31.186979"
+    },
+    {
+        "content_id": 2188,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:50:31.187190"
+    },
+    {
+        "content_id": 2188,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:50:31.187431"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:50:31.187725"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:34.355520"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:34.356310"
+    },
+    {
+        "content_id": 2030,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:34.356498"
+    },
+    {
+        "content_id": 2030,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:34.356723"
+    },
+    {
+        "content_id": 2967,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:34.356898"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:37.772301"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:37.773737"
+    },
+    {
+        "content_id": 2030,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:37.775300"
+    },
+    {
+        "content_id": 2030,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:37.776083"
+    },
+    {
+        "content_id": 2967,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:37.776483"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:42.122524"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:42.126839"
+    },
+    {
+        "content_id": 2030,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:42.130214"
+    },
+    {
+        "content_id": 2030,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:42.130659"
+    },
+    {
+        "content_id": 2967,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:42.131101"
+    },
+    {
+        "content_id": 2216,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 14:53:56.935211"
+    },
+    {
+        "content_id": 2967,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.361289"
+    },
+    {
+        "content_id": 2967,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.363721"
+    },
+    {
+        "content_id": 2967,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.364248"
+    },
+    {
+        "content_id": 2967,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.364579"
+    },
+    {
+        "content_id": 2030,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.365222"
+    },
+    {
+        "content_id": 2188,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.365805"
+    },
+    {
+        "content_id": 3776,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.366255"
+    },
+    {
+        "content_id": 2626,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.366795"
+    },
+    {
+        "content_id": 3144,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.367232"
+    },
+    {
+        "content_id": 2300,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.367802"
+    },
+    {
+        "content_id": 2171,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.368412"
+    },
+    {
+        "content_id": 3730,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:03:15.368931"
+    },
+    {
+        "content_id": 3730,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:07:05.754726"
+    },
+    {
+        "content_id": 3730,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:07:05.758192"
+    },
+    {
+        "content_id": 3730,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:07:05.759421"
+    },
+    {
+        "content_id": 3730,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:07:05.760268"
+    },
+    {
+        "content_id": 568,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:08:48.086519"
+    },
+    {
+        "content_id": 568,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:08:52.474475"
+    },
+    {
+        "content_id": 299,
+        "activity": "Dislike",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:28:17.859244"
+    },
+    {
+        "content_id": 299,
+        "activity": "Like",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:28:17.865240"
+    },
+    {
+        "content_id": 299,
+        "activity": "DoNotShow",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:28:17.869242"
+    },
+    {
+        "content_id": 299,
+        "activity": "watch_percentage",
+        "watch_percentage": 0,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:28:17.870307"
+    },
+    {
+        "content_id": 46,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:45:56.716671"
+    },
+    {
+        "content_id": 1713,
+        "activity": "Select Show",
+        "watch_percentage": null,
+        "user_id": 0,
+        "datetime": "2022-03-31 15:45:58.932308"
     }
 ]
