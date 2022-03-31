@@ -23,10 +23,7 @@ USER = 'user'
 # Activities
 ACTIVITIES = 'activities'
 
-LIKE = 'like'
-DISLIKE = 'dislike'
-SELECT = 'select'
-WATCH_PERCENTAGE = 'watch_percentage'
+WATCHED = 'watched'
 
 # DF Attributes
 

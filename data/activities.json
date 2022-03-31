@@ -1,405 +1,1458 @@
 [
     {
-        "content_id": "tt0348034",
-        "activity": "Like",
+        "content_id": 977,
+        "activity": "watched",
         "user_id": 1,
-        "datetime": "2022-03-22 14:12:11.298680"
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525419"
     },
     {
-        "content_id": 2,
-        "activity": "Select Season",
+        "content_id": 1048,
+        "activity": "watched",
         "user_id": 1,
-        "datetime": "2022-03-22 14:12:12.867443"
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525432"
     },
     {
-        "content_id": "tt0767438",
-        "activity": "Select Episode",
+        "content_id": 3054,
+        "activity": "watched",
         "user_id": 1,
-        "datetime": "2022-03-22 14:12:16.287137"
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525436"
     },
     {
-        "content_id": 1214,
-        "activity": "watch_percentage",
-        "watch_percentage": 56,
-        "user_id": 0,
-        "datetime": "2022-03-29 14:04:12.233196"
+        "content_id": 3027,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525439"
     },
     {
-        "content_id": 770,
-        "activity": "Select Show",
-        "watch_percentage": null,
+        "content_id": 3129,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525442"
+    },
+    {
+        "content_id": 2994,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525444"
+    },
+    {
+        "content_id": 1006,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525447"
+    },
+    {
+        "content_id": 2022,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.525450"
+    },
+    {
+        "content_id": 857,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525452"
+    },
+    {
+        "content_id": 2308,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525455"
+    },
+    {
+        "content_id": 325,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525951"
+    },
+    {
+        "content_id": 296,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.525955"
+    },
+    {
+        "content_id": 269,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525958"
+    },
+    {
+        "content_id": 224,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525960"
+    },
+    {
+        "content_id": 204,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525963"
+    },
+    {
+        "content_id": 254,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525965"
+    },
+    {
+        "content_id": 2520,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525967"
+    },
+    {
+        "content_id": 277,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.525970"
+    },
+    {
+        "content_id": 329,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.525972"
+    },
+    {
+        "content_id": 281,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.525974"
+    },
+    {
+        "content_id": 2839,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526345"
+    },
+    {
+        "content_id": 1960,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526349"
+    },
+    {
+        "content_id": 241,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526352"
+    },
+    {
+        "content_id": 2150,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526354"
+    },
+    {
+        "content_id": 2829,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526357"
+    },
+    {
+        "content_id": 2691,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526359"
+    },
+    {
+        "content_id": 233,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.526362"
+    },
+    {
+        "content_id": 206,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.526364"
+    },
+    {
+        "content_id": 2207,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526367"
+    },
+    {
+        "content_id": 2560,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.526369"
+    },
+    {
+        "content_id": 407,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526700"
+    },
+    {
+        "content_id": 2662,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526703"
+    },
+    {
+        "content_id": 479,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526706"
+    },
+    {
+        "content_id": 371,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526708"
+    },
+    {
+        "content_id": 363,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.526710"
+    },
+    {
+        "content_id": 348,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526712"
+    },
+    {
+        "content_id": 405,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.526715"
+    },
+    {
+        "content_id": 480,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526718"
+    },
+    {
+        "content_id": 418,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.526720"
+    },
+    {
+        "content_id": 395,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.526722"
+    },
+    {
+        "content_id": 2673,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527038"
+    },
+    {
+        "content_id": 403,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527041"
+    },
+    {
+        "content_id": 381,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527044"
+    },
+    {
+        "content_id": 398,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527046"
+    },
+    {
+        "content_id": 379,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527048"
+    },
+    {
+        "content_id": 444,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527051"
+    },
+    {
+        "content_id": 453,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527053"
+    },
+    {
+        "content_id": 388,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527055"
+    },
+    {
+        "content_id": 362,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527058"
+    },
+    {
+        "content_id": 448,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527060"
+    },
+    {
+        "content_id": 2240,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527389"
+    },
+    {
+        "content_id": 2341,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527393"
+    },
+    {
+        "content_id": 2223,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527395"
+    },
+    {
+        "content_id": 2334,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527397"
+    },
+    {
+        "content_id": 2286,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527400"
+    },
+    {
+        "content_id": 2224,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527402"
+    },
+    {
+        "content_id": 2293,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527404"
+    },
+    {
+        "content_id": 2329,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527406"
+    },
+    {
+        "content_id": 2283,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527408"
+    },
+    {
+        "content_id": 2267,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527411"
+    },
+    {
+        "content_id": 1686,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527700"
+    },
+    {
+        "content_id": 1553,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527704"
+    },
+    {
+        "content_id": 1578,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527706"
+    },
+    {
+        "content_id": 1678,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527708"
+    },
+    {
+        "content_id": 1587,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527711"
+    },
+    {
+        "content_id": 1819,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527713"
+    },
+    {
+        "content_id": 1613,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.527715"
+    },
+    {
+        "content_id": 1675,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527717"
+    },
+    {
+        "content_id": 1640,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.527720"
+    },
+    {
+        "content_id": 1792,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.527722"
+    },
+    {
+        "content_id": 814,
+        "activity": "watched",
         "user_id": 2,
-        "datetime": "2022-03-29 14:28:28.101403"
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529076"
     },
     {
-        "content_id": 528,
-        "activity": "Select Show",
-        "watch_percentage": null,
+        "content_id": 750,
+        "activity": "watched",
         "user_id": 2,
-        "datetime": "2022-03-29 14:28:31.647556"
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529083"
     },
     {
-        "content_id": 909,
-        "activity": "Select Show",
-        "watch_percentage": null,
+        "content_id": 1943,
+        "activity": "watched",
         "user_id": 2,
-        "datetime": "2022-03-29 14:28:42.376445"
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529085"
     },
     {
-        "content_id": 471,
-        "activity": "Select Show",
-        "watch_percentage": null,
+        "content_id": 789,
+        "activity": "watched",
         "user_id": 2,
-        "datetime": "2022-03-29 14:28:49.908113"
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529088"
     },
     {
-        "content_id": 759,
-        "activity": "Select Show",
-        "watch_percentage": null,
+        "content_id": 685,
+        "activity": "watched",
         "user_id": 2,
-        "datetime": "2022-03-29 14:28:54.073621"
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529090"
     },
     {
-        "content_id": 2188,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:48:33.483150"
+        "content_id": 749,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529093"
     },
     {
-        "content_id": 2188,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:48:33.485760"
+        "content_id": 733,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529095"
     },
     {
-        "content_id": 2188,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:48:33.486141"
+        "content_id": 747,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529098"
     },
     {
-        "content_id": 2188,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:48:33.486487"
+        "content_id": 714,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529100"
     },
     {
-        "content_id": 2188,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:50:31.186487"
+        "content_id": 694,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529102"
     },
     {
-        "content_id": 2188,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:50:31.186979"
+        "content_id": 1513,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529431"
     },
     {
-        "content_id": 2188,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:50:31.187190"
+        "content_id": 1441,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529434"
     },
     {
-        "content_id": 2188,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:50:31.187431"
+        "content_id": 1509,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529437"
     },
     {
-        "content_id": 2030,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:50:31.187725"
+        "content_id": 1425,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529439"
     },
     {
-        "content_id": 2030,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:34.355520"
+        "content_id": 1453,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529441"
     },
     {
-        "content_id": 2030,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:34.356310"
+        "content_id": 1495,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529444"
     },
     {
-        "content_id": 2030,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:34.356498"
+        "content_id": 1439,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529446"
     },
     {
-        "content_id": 2030,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:34.356723"
+        "content_id": 1426,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529448"
     },
     {
-        "content_id": 2967,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:34.356898"
+        "content_id": 675,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529451"
     },
     {
-        "content_id": 2030,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:37.772301"
+        "content_id": 1490,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529453"
     },
     {
-        "content_id": 2030,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:37.773737"
+        "content_id": 96,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529770"
     },
     {
-        "content_id": 2030,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:37.775300"
+        "content_id": 2747,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529774"
     },
     {
-        "content_id": 2030,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:37.776083"
+        "content_id": 1928,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529776"
     },
     {
-        "content_id": 2967,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:37.776483"
+        "content_id": 2701,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529778"
     },
     {
-        "content_id": 2030,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:42.122524"
+        "content_id": 2754,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529781"
     },
     {
-        "content_id": 2030,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:42.126839"
+        "content_id": 2514,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.529783"
     },
     {
-        "content_id": 2030,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:42.130214"
+        "content_id": 2723,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.529785"
     },
     {
-        "content_id": 2030,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:42.130659"
+        "content_id": 2740,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529788"
     },
     {
-        "content_id": 2967,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:42.131101"
+        "content_id": 2475,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529790"
     },
     {
-        "content_id": 2216,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 14:53:56.935211"
+        "content_id": 2755,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.529792"
     },
     {
-        "content_id": 2967,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.361289"
+        "content_id": 744,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530122"
     },
     {
-        "content_id": 2967,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.363721"
+        "content_id": 1122,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530125"
     },
     {
-        "content_id": 2967,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.364248"
+        "content_id": 1283,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.530128"
     },
     {
-        "content_id": 2967,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.364579"
+        "content_id": 2081,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.530130"
     },
     {
-        "content_id": 2030,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.365222"
+        "content_id": 811,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530132"
     },
     {
-        "content_id": 2188,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.365805"
+        "content_id": 1213,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530135"
     },
     {
-        "content_id": 3776,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.366255"
+        "content_id": 1198,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530137"
     },
     {
-        "content_id": 2626,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.366795"
+        "content_id": 787,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.530140"
     },
     {
-        "content_id": 3144,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.367232"
+        "content_id": 1126,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.530142"
     },
     {
-        "content_id": 2300,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.367802"
+        "content_id": 780,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530144"
     },
     {
-        "content_id": 2171,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.368412"
+        "content_id": 2305,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.530461"
     },
     {
-        "content_id": 3730,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:03:15.368931"
+        "content_id": 2235,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530465"
     },
     {
-        "content_id": 3730,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:07:05.754726"
+        "content_id": 2331,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530467"
     },
     {
-        "content_id": 3730,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:07:05.758192"
+        "content_id": 2366,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530469"
     },
     {
-        "content_id": 3730,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:07:05.759421"
+        "content_id": 2239,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530472"
     },
     {
-        "content_id": 3730,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:07:05.760268"
+        "content_id": 2339,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.530474"
     },
     {
-        "content_id": 568,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:08:48.086519"
+        "content_id": 2343,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.530476"
     },
     {
-        "content_id": 568,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:08:52.474475"
+        "content_id": 2334,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.530479"
     },
     {
-        "content_id": 299,
-        "activity": "Dislike",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:28:17.859244"
+        "content_id": 2313,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530481"
     },
     {
-        "content_id": 299,
-        "activity": "Like",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:28:17.865240"
+        "content_id": 2133,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.530483"
     },
     {
-        "content_id": 299,
-        "activity": "DoNotShow",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:28:17.869242"
+        "content_id": 1099,
+        "activity": "watched",
+        "user_id": 2,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.530753"
     },
     {
-        "content_id": 299,
-        "activity": "watch_percentage",
-        "watch_percentage": 0,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:28:17.870307"
+        "content_id": 1896,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532463"
     },
     {
-        "content_id": 46,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:45:56.716671"
+        "content_id": 926,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.532468"
     },
     {
-        "content_id": 1713,
-        "activity": "Select Show",
-        "watch_percentage": null,
-        "user_id": 0,
-        "datetime": "2022-03-31 15:45:58.932308"
+        "content_id": 3280,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532471"
+    },
+    {
+        "content_id": 1057,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532473"
+    },
+    {
+        "content_id": 3146,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532476"
+    },
+    {
+        "content_id": 3373,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532479"
+    },
+    {
+        "content_id": 2179,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532481"
+    },
+    {
+        "content_id": 864,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.532484"
+    },
+    {
+        "content_id": 1944,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532486"
+    },
+    {
+        "content_id": 3697,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532488"
+    },
+    {
+        "content_id": 835,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532801"
+    },
+    {
+        "content_id": 1062,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.532804"
+    },
+    {
+        "content_id": 902,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532807"
+    },
+    {
+        "content_id": 1034,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.532809"
+    },
+    {
+        "content_id": 2578,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532812"
+    },
+    {
+        "content_id": 1072,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532814"
+    },
+    {
+        "content_id": 997,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.532816"
+    },
+    {
+        "content_id": 2406,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532819"
+    },
+    {
+        "content_id": 1076,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532821"
+    },
+    {
+        "content_id": 380,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.532823"
+    },
+    {
+        "content_id": 801,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533098"
+    },
+    {
+        "content_id": 662,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533102"
+    },
+    {
+        "content_id": 803,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533104"
+    },
+    {
+        "content_id": 2341,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533407"
+    },
+    {
+        "content_id": 2257,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533410"
+    },
+    {
+        "content_id": 2064,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533413"
+    },
+    {
+        "content_id": 2425,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533415"
+    },
+    {
+        "content_id": 2285,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.533418"
+    },
+    {
+        "content_id": 2262,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533420"
+    },
+    {
+        "content_id": 2365,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.533422"
+    },
+    {
+        "content_id": 2289,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.533425"
+    },
+    {
+        "content_id": 2369,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533427"
+    },
+    {
+        "content_id": 2268,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533429"
+    },
+    {
+        "content_id": 1099,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533705"
+    },
+    {
+        "content_id": 1578,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533961"
+    },
+    {
+        "content_id": 1792,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533964"
+    },
+    {
+        "content_id": 1778,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.533966"
+    },
+    {
+        "content_id": 1819,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.533968"
+    },
+    {
+        "content_id": 1671,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533970"
+    },
+    {
+        "content_id": 1675,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533972"
+    },
+    {
+        "content_id": 1613,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533974"
+    },
+    {
+        "content_id": 1686,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.533976"
+    },
+    {
+        "content_id": 1640,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533979"
+    },
+    {
+        "content_id": 1553,
+        "activity": "watched",
+        "user_id": 3,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.533981"
+    },
+    {
+        "content_id": 1505,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.535712"
+    },
+    {
+        "content_id": 1470,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.535716"
+    },
+    {
+        "content_id": 1478,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.535719"
+    },
+    {
+        "content_id": 675,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.535721"
+    },
+    {
+        "content_id": 1497,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.535723"
+    },
+    {
+        "content_id": 147,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.535725"
+    },
+    {
+        "content_id": 1510,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.535727"
+    },
+    {
+        "content_id": 1412,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.535729"
+    },
+    {
+        "content_id": 1408,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.535731"
+    },
+    {
+        "content_id": 1425,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.535734"
+    },
+    {
+        "content_id": 617,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.535993"
+    },
+    {
+        "content_id": 547,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.535996"
+    },
+    {
+        "content_id": 631,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.535998"
+    },
+    {
+        "content_id": 522,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536000"
+    },
+    {
+        "content_id": 511,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536002"
+    },
+    {
+        "content_id": 323,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536004"
+    },
+    {
+        "content_id": 341,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536006"
+    },
+    {
+        "content_id": 309,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536008"
+    },
+    {
+        "content_id": 612,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536010"
+    },
+    {
+        "content_id": 235,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536012"
+    },
+    {
+        "content_id": 662,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536258"
+    },
+    {
+        "content_id": 801,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536261"
+    },
+    {
+        "content_id": 803,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536263"
+    },
+    {
+        "content_id": 2328,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536539"
+    },
+    {
+        "content_id": 2252,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536542"
+    },
+    {
+        "content_id": 2359,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536544"
+    },
+    {
+        "content_id": 2339,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536547"
+    },
+    {
+        "content_id": 2334,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536549"
+    },
+    {
+        "content_id": 2298,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536551"
+    },
+    {
+        "content_id": 2249,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536553"
+    },
+    {
+        "content_id": 2363,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536555"
+    },
+    {
+        "content_id": 2346,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536557"
+    },
+    {
+        "content_id": 2332,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536559"
+    },
+    {
+        "content_id": 2549,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536809"
+    },
+    {
+        "content_id": 1756,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536812"
+    },
+    {
+        "content_id": 1693,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536814"
+    },
+    {
+        "content_id": 1771,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536816"
+    },
+    {
+        "content_id": 1692,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536818"
+    },
+    {
+        "content_id": 1534,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536820"
+    },
+    {
+        "content_id": 1755,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 10,
+        "datetime": "2022-03-31 16:44:16.536822"
+    },
+    {
+        "content_id": 1701,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536824"
+    },
+    {
+        "content_id": 1762,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 8,
+        "datetime": "2022-03-31 16:44:16.536826"
+    },
+    {
+        "content_id": 1685,
+        "activity": "watched",
+        "user_id": 4,
+        "rating": 9,
+        "datetime": "2022-03-31 16:44:16.536828"
     }
 ]

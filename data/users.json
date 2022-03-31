@@ -1,3 +1,22 @@
-[{"name":"Jolan","id":1, "password": "Jolan"},
-{"name":"Hagen","id":2, "password": "Hagen"},
-{"name":"Sebas","id":3, "password": "Sebas"}]
+[
+    {
+        "id": 1,
+        "name": "Lisa Simpson",
+        "password": "Lisa Simpson"
+    },
+    {
+        "id": 2,
+        "name": "Homer Simpson",
+        "password": "Homer Simpson"
+    },
+    {
+        "id": 3,
+        "name": "Marge Simpson",
+        "password": "Marge Simpson"
+    },
+    {
+        "id": 4,
+        "name": "Bart Simpson",
+        "password": "Bart Simpson"
+    }
+]

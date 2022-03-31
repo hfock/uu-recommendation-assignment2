@@ -30,17 +30,14 @@ def display_show(show: Show):
     st.title(show.title)
     left, right, super_right = st.columns([2,  2, 1])
     with left:
-        st.image(show.preview_img)
+        st.image(show.full_scale_img)
     with right:
         st.caption(show.desc)
         st.caption(f'Category: {show.category}')
     with super_right:
-        st.button('👍🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Dislike'))
-        st.button('👎🏼', key=random.random(), on_click=uic.activity, args=(show.index, 'Like'))
-        st.button('⛔', key=random.random(), on_click=uic.activity, args=(show.index, 'DoNotShow'))
-        watched = st.slider('Watched', 0, 100)
-        st.button('Store Watch Percentage' , key=random.random(),
-                  on_click=uic.activity, args=(show.index, c.WATCH_PERCENTAGE, watched))
+        rating = st.slider('How much did you like it?', 0, 10)
+        st.button('Click me to indicate that you watched the content', key=random.random(),
+                  on_click=uic.activity, args=(show.index, c.WATCHED, rating))
 
 
 

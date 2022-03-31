@@ -36,6 +36,8 @@ def init_page(df_cosine):
         recom_entries = r.most_similar(df, df_cosine, sel_show.index)
         t.recommendations(recom_entries, "Based on content's similarity")
 
+
+
     elif st.session_state[c.MODE] == c.HISTORY:
         if st.session_state[c.HISTORY]:
             print(st.session_state[c.HISTORY])

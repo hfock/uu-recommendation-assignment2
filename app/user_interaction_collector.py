@@ -12,12 +12,11 @@ def save_activities():
 
 
 # function that processes an activity
-def activity(id, activity, watch_percentage = None):
-    print(watch_percentage)
+def activity(id, activity, rating):
     data = {'content_id': int(id),
             'activity': activity,
-            'watch_percentage': watch_percentage,
             'user_id': st.session_state['user'],
+            'rating': rating,
             'datetime': str(datetime.datetime.now())}
     # add to the session state
     st.session_state[c.ACTIVITIES].append(data)
