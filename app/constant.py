@@ -14,6 +14,7 @@ MODE = 'mode'
 
 HOME = 'Home'
 HISTORY = 'History'
+OLD_HISTORY = 'Old History'
 
 # Authentication values
 AUTH_STATUS = 'authentication_status'
@@ -44,3 +45,5 @@ def init_session_keys(users_activities):
         st.session_state[USER] = 0
     if ACTIVITIES not in st.session_state:
         st.session_state[ACTIVITIES] = users_activities
+    if OLD_HISTORY not in st.session_state:
+        st.session_state[OLD_HISTORY] = []

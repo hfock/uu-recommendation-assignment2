@@ -12,7 +12,9 @@ def save_activities():
 
 
 # function that processes an activity
-def activity(id, activity, rating):
+def activity(id, activity, rating=None):
+    if activity != c.WATCHED:
+        rating = 0
     data = {'content_id': int(id),
             'activity': activity,
             'user_id': st.session_state['user'],

@@ -5,7 +5,7 @@ import pandas as pd
 import constant as c
 
 
-def authenticate(df_users):
+def authenticate(df_users, user_movie_dict):
 
 	#0. Load users
 
@@ -33,7 +33,14 @@ def authenticate(df_users):
 
 		# set user id in session state
 		user_id = int(df_users[df_users['name'] == name]['id'].iloc[0])
-		st.session_state['user'] = user_id
+		old = st.session_state[c.USER]
+		st.session_state[c.USER] = user_id
+		if user_id == 0:
+			st.session_state[c.OLD_HISTORY] = []
+			st.session_state[c.HISTORY] = []
+		else:
+			st.session_state[c.OLD_HISTORY] = list(user_movie_dict[user_id - 1])
+
 		
 	# > if the authentication failed
 	elif st.session_state[c.AUTH_STATUS] == False:

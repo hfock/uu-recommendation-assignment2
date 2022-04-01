@@ -22,6 +22,7 @@ def cosine_recommendations(np_sim, index):
 def most_similar_nparray(np_cosine, index):
     return np.sort(np_cosine[index, :c.RECOM_COUNT])[::-1]
 
+
 def most_similar(df, df_cosin, index):
     recom_indices = df_cosin.loc[index].sort_values(ascending=False).index.tolist()[1:c.RECOM_COUNT]
 
@@ -29,4 +30,13 @@ def most_similar(df, df_cosin, index):
     recom_indices = list(map(int, recom_indices))
     recom_entries = df.loc[recom_indices, :]
 
+    return recom_entries
+
+
+def most_similar_collab(df, df_colab, user_movie_dict, logged_in_user):
+    for user, movie in user_movie_dict.items():
+        df_colab.loc[user, movie] = 0
+
+    recom_indices = df_colab.T[logged_in_user - 1].sort_values(ascending=False).index.tolist()[1:c.RECOM_COUNT]
+    recom_entries = df.loc[recom_indices, :]
     return recom_entries

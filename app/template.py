@@ -8,9 +8,9 @@ import authenticate as auth
 import user_interaction_collector as uic
 
 
-def sidebar(df_users):
+def sidebar(df_users, user_movie_dict):
     with st.sidebar:
-        auth.authenticate(df_users)
+        auth.authenticate(df_users, user_movie_dict)
 
         st.session_state[c.MODE] = st.sidebar.radio('Go To', [c.HOME, c.HISTORY])
 
@@ -54,7 +54,6 @@ def recommendations(df, text='Enter a Text for the header of the recommendation'
 
         # convert df rows to dict lists
         items = df.to_dict(orient='records')
-        print(items)
         # apply tile_item to each column-item tuple (created with python 'zip')
         any(tile_item(x[0], x[1]) for x in zip(columns, items))
 
