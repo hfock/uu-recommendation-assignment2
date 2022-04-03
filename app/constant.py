@@ -3,6 +3,7 @@ import random
 from enum import Enum
 
 DATA_PATH = './../data/'
+DATA_PATH_SIMPSONS = '../data/simpson_faces/'
 
 ID = 'index'
 
@@ -14,6 +15,7 @@ MODE = 'mode'
 
 HOME = 'Home'
 HISTORY = 'History'
+ADVANCED = 'Advanced'
 OLD_HISTORY = 'Old History'
 
 # Authentication values
@@ -27,12 +29,20 @@ ACTIVITIES = 'activities'
 WATCHED = 'watched'
 
 # DF Attributes
-
 DF_DESCRIPTION= 'description'
 DF_IMAGE_PREVIEW = 'image_l'
 DF_IMAGE_LARGE = 'image_xl'
 DF_CATEGORY = 'category'
 
+# Simpson
+SIMPSON = 'simpson'
+HOMER = 'homer'
+MARGE = 'marge'
+LISA = 'lisa'
+BART = 'bart'
+
+# Genre
+GENRE = 'genre'
 
 def init_session_keys(users_activities):
     if ID not in st.session_state:
@@ -47,3 +57,7 @@ def init_session_keys(users_activities):
         st.session_state[ACTIVITIES] = users_activities
     if OLD_HISTORY not in st.session_state:
         st.session_state[OLD_HISTORY] = []
+    if SIMPSON not in st.session_state:
+        st.session_state[SIMPSON] = HOMER
+    if GENRE not in st.session_state:
+        st.session_state[GENRE] = 'Comedy'

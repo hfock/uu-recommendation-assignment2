@@ -30,7 +30,7 @@ class Show:
         # self.episode = df['episode']
 
 
-class CurShowJson:
+class ShowJson:
     index = None
     title = None
     desc = None
