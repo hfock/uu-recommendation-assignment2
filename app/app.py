@@ -47,6 +47,14 @@ def init_page(df, df_cosine, df_colab, user_movie_dict, df_adv):
         t.recommendations(recom_entries, "Based on content's similarity")
 
         if st.session_state[c.USER] != 0:
+            recom_entries_collab_content = r.most_similar_collab_content(df,
+                                                                         df_cosine,
+                                                                         df_colab,
+                                                                         user_movie_dict,
+                                                                         st.session_state[c.USER],
+                                                                         sel_show.index)
+            t.recommendations(recom_entries_collab_content, "Based on content's similarity and collaborative filtering")
+
             recom_entries_colab = r.most_similar_collab(df, df_colab, user_movie_dict, st.session_state[c.USER])
             t.recommendations(recom_entries_colab, "Based on collaborative filtering")
 

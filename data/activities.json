@@ -2028,5 +2028,68 @@
         "user_id": 1,
         "rating": 0,
         "datetime": "2022-04-03 15:13:29.281035"
+    },
+    {
+        "content_id": 1445,
+        "activity": "watched",
+        "user_id": 1,
+        "rating": 3,
+        "datetime": "2022-04-03 15:50:14.106736"
+    },
+    {
+        "content_id": 36,
+        "activity": "Select Show",
+        "user_id": 2,
+        "rating": 0,
+        "datetime": "2022-04-05 14:53:17.100686"
+    },
+    {
+        "content_id": 123,
+        "activity": "Select Show",
+        "user_id": 2,
+        "rating": 0,
+        "datetime": "2022-04-05 14:53:23.091843"
+    },
+    {
+        "content_id": 1989,
+        "activity": "Select Show",
+        "user_id": 2,
+        "rating": 0,
+        "datetime": "2022-04-05 14:53:51.323494"
+    },
+    {
+        "content_id": 101,
+        "activity": "Select Show",
+        "user_id": 2,
+        "rating": 0,
+        "datetime": "2022-04-05 14:54:06.247375"
+    },
+    {
+        "content_id": 974,
+        "activity": "Select Show",
+        "user_id": 2,
+        "rating": 0,
+        "datetime": "2022-04-05 14:59:10.668903"
+    },
+    {
+        "content_id": 1465,
+        "activity": "Select Show",
+        "user_id": 3,
+        "rating": 0,
+        "datetime": "2022-04-05 14:59:49.022382"
+    },
+    {
+        "content_id": 1779,
+        "activity": "Select Show",
+        "user_id": 3,
+        "rating": 0,
+        "datetime": "2022-04-05 15:00:00.656757"
+    },
+    {
+        "content_id": 1826,
+        "activity": "Select Show",
+        "user_id": 3,
+        "rating": 0,
+        "datetime": "2022-04-05 15:00:36.447777"
     }
 ]

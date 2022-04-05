@@ -93,7 +93,7 @@ def simpson_portrays():
     left, right = st.columns([2, 2])
 
     with left:
-        st.button('👇🏼', key=random.random(), on_click=select_simpson, args=(c.LISA,))
+        st.button('📚', key=random.random(), on_click=select_simpson, args=(c.LISA,))
         if st.session_state[c.SIMPSON] == c.LISA:
             st.image(f'{c.DATA_PATH_SIMPSONS}lisa_selected.jpg')
         else:
@@ -102,9 +102,9 @@ def simpson_portrays():
             st.image(f'{c.DATA_PATH_SIMPSONS}bart_selected.jpg')
         else:
             st.image(f'{c.DATA_PATH_SIMPSONS}bart.png')
-        st.button('👆🏼', key=random.random(), on_click=select_simpson, args=(c.BART,))
+        st.button('🛹', key=random.random(), on_click=select_simpson, args=(c.BART,))
     with right:
-        st.button('👇🏼', key=random.random(), on_click=select_simpson, args=(c.MARGE,))
+        st.button('🏡', key=random.random(), on_click=select_simpson, args=(c.MARGE,))
         if st.session_state[c.SIMPSON] == c.MARGE:
             st.image(f'{c.DATA_PATH_SIMPSONS}marge_selected.jpg')
         else:

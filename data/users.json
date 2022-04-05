@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "name": "Lisa Simpson",
-        "password": "Lisa Simpson"
+        "name": "Lisa",
+        "password": "Lisa"
     },
     {
         "id": 2,
-        "name": "Homer Simpson",
-        "password": "Homer Simpson"
+        "name": "Homer",
+        "password": "Homer"
     },
     {
         "id": 3,
-        "name": "Marge Simpson",
-        "password": "Marge Simpson"
+        "name": "Marge",
+        "password": "Marge"
     },
     {
         "id": 4,
-        "name": "Bart Simpson",
-        "password": "Bart Simpson"
+        "name": "Bart",
+        "password": "Bart"
     }
 ]

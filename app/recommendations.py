@@ -1,6 +1,7 @@
 import constant as c
 import numpy as np
 import streamlit as st
+import pandas as pd
 
 
 def sim_title(df_cosin_similarity, index: int):
@@ -52,5 +53,17 @@ def most_similar_by_genre(df, df_cosine, index):
     genre_selected = cos_col_index.iloc[fitting_genre.index]
     # Sort them ascending and take the top x values
     recom_indices = genre_selected.sort_values(ascending=False).index.tolist()[1:c.RECOM_COUNT]
+    recom_entries = df.loc[list(map(int, recom_indices)), :]
+    return recom_entries
+
+
+def most_similar_collab_content(df, df_cosine, df_colab, user_movie_dict, user_id, index):
+    # for user, movie in user_movie_dict.items():
+    #     df_colab.loc[user, movie] = 0
+    colab_np = np.array(df_cosine.loc[index].tolist())
+
+    cosin_np = np.array(df_colab.loc[user_id - 1].tolist())
+    hybrid_solution = np.multiply(cosin_np, colab_np)
+    recom_indices = pd.DataFrame(hybrid_solution).sort_values(by=0, ascending=False).index.tolist()[1:c.RECOM_COUNT]
     recom_entries = df.loc[list(map(int, recom_indices)), :]
     return recom_entries
