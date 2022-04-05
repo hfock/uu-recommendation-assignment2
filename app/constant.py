@@ -3,7 +3,7 @@ import random
 from enum import Enum
 
 DATA_PATH = './../data/'
-DATA_PATH_SIMPSONS = '../data/simpson_faces/'
+DATA_PATH_SIMPSONS = './images/simpson_faces/'
 
 ID = 'index'
 
