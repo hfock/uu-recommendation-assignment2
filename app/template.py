@@ -21,7 +21,12 @@ def sidebar(df_users, user_movie_dict):
             st.session_state[c.MODE] = st.sidebar.radio('Go To', [c.HOME, c.HISTORY])
 
         simpson_portrays()
-
+        with st.expander("Login informations"):
+            st.write('Possible Logins {Username Password}')
+            st.write('Lisa Lisa')
+            st.write('Marge Marge')
+            st.write('Homer Homer')
+            st.write('Bart Bart')
         auth.authenticate(df_users, user_movie_dict)
 
 
